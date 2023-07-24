@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Список задач</string>
+    <string name="app_name">Мои задачи</string>
     <string name="add_task">Новая задача</string>
     <string name="edit_task">Изменить задачу</string>
     <string name="task_marked_complete">Задача выполнена</string>
