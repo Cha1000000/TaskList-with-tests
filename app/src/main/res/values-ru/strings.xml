@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Список задач</string>
+    <string name="add_task">Новая задача</string>
+    <string name="edit_task">Изменить задачу</string>
+    <string name="task_marked_complete">Задача выполнена</string>
+    <string name="task_marked_active">Задача активна</string>
+    <string name="loading_tasks_error">Ошибка загрузки задач</string>
+    <string name="completed_tasks_cleared">Выполненные задачи очищены</string>
+    <string name="menu_filter">Фильтр</string>
+    <string name="menu_clear">Очистить выполненные</string>
+    <string name="menu_delete_task">Удалить задачу</string>
+    <string name="navigation_view_header_title">Список задач</string>
+    <string name="title_hint">Название</string>
+    <string name="description_hint">Опишите свою задачу.</string>
+    <string name="empty_task_message">Задачи не могут быть пустыми</string>
+    <string name="successfully_saved_task_message">Задача сохранена</string>
+    <string name="list_title">Список Задач</string>
+    <string name="statistics_title">Статистика</string>
+    <string name="statistics_no_tasks">Нет задач.</string>
+    <string name="statistics_active_tasks">Активно задач: %.1f%%</string>
+    <string name="statistics_completed_tasks">Выполненно задач: %.1f%%</string>
+    <string name="statistics_error">Ошибка загрузки статистики.</string>
+    <string name="no_data">Нет данных</string>
+    <string name="loading">ЗАГРУЗКА</string>
+
+    <string-array name="list_tasks_array">
+        <item>@string/nav_all</item>
+        <item>@string/nav_active</item>
+        <item>@string/nav_completed</item>
+    </string-array>
+    <string name="nav_all">Все</string>
+    <string name="nav_active">Активные</string>
+    <string name="nav_completed">Выполненные</string>
+    <string name="label_all">Все задачи</string>
+    <string name="label_active">Активные задачи</string>
+    <string name="label_completed">Выполненные задачи</string>
+    <string name="no_tasks_all">У вас нет задач!</string>
+    <string name="no_tasks_active">У вас нет активных задач!</string>
+    <string name="no_tasks_completed">У вас нет выполненных задач!</string>
+    <string name="refresh">Обновить</string>
+    <string name="successfully_deleted_task_message">Задача удалена</string>
+    <string name="successfully_added_task_message">Задача добавлена</string>
+    <string name="no_data_description" />
+
+    <!-- Content Descriptions -->
+    <string name="tasks_header_image_content_description">Tasks header image</string>
+    <string name="no_tasks_image_content_description">No tasks image</string>
+</resources>
